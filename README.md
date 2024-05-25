@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="main" align="center">
+<div class="main">
     <img id="main-image" align="center" height="550" src="https://github.com/aaltgod/aaltgod/blob/main/images/beauty.jpg?raw=true" alt="s15">
     <div class="stats" style="display: flex">
         <div class="common" style="box-sizing: border-box">
